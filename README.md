@@ -1,6 +1,6 @@
 # NEURO SPARK
  
- *PROJECT TITLE :* **blood blockage detection**
+ *PROJECT TITLE :* **BLOOD BLOCK DETECTION**
  
  *PROBLEM STATEMENT:* Development of an alternative technology to check 
 blockage of blood vessels (an alternative to conventional 
